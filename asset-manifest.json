@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ReadBooks/static/css/main.f67da8f6.css",
+    "main.css": "/ReadBooks/static/css/main.01712d2c.css",
     "main.js": "/ReadBooks/static/js/main.eaf01a37.js",
     "index.html": "/ReadBooks/index.html",
-    "main.f67da8f6.css.map": "/ReadBooks/static/css/main.f67da8f6.css.map",
+    "main.01712d2c.css.map": "/ReadBooks/static/css/main.01712d2c.css.map",
     "main.eaf01a37.js.map": "/ReadBooks/static/js/main.eaf01a37.js.map"
   },
   "entrypoints": [
-    "static/css/main.f67da8f6.css",
+    "static/css/main.01712d2c.css",
     "static/js/main.eaf01a37.js"
   ]
 }
